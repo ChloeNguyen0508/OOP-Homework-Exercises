@@ -1,5 +1,5 @@
 # OOP-Homework-Exercises
-# OOP Practice Exercises
+
 
 This repository contains solutions to basic Object-Oriented Programming (OOP) exercises in C++.
 Each exercise is implemented in a separate file.
